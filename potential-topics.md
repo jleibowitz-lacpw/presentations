@@ -26,7 +26,8 @@ Some stuff I can try to share or make presentations on:
 - Host Headers (MDN link)
 - SSL Labs (Qualys) 
 - virtual hosting (the wikipedia link) 
-- field botany and california native plants. 50 taxa. 
+- field botany and california native plants. 50 taxa.
+- email deliverability (what system administrators need to do to get mail to work on today's fun internet)
 
 
 ## Existing braindumps (that I can marpify):
