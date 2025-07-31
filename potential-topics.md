@@ -28,7 +28,7 @@ Some stuff I can try to share or make presentations on:
 - virtual hosting (the wikipedia link) 
 - field botany and california native plants. 50 taxa.
 - email deliverability (what system administrators need to do to get mail to work on today's fun internet)\
-- SSH Keys!!!! why they're great and why they're confusing to people, especially those who exist predominantly in the Microsoft space. 
+- SSH Keys and the SSH protocol!!!! why this is great and where it may be confusing to people, especially those who exist predominantly in the Microsoft space. 
 
 
 ## Existing braindumps (that I can marpify):
