@@ -1,4 +1,4 @@
-Some stuff I can try to share:
+Some stuff I can try to share or make presentations on:
 
 - ITIL
 - Markdown or obsidian
