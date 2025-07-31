@@ -27,7 +27,8 @@ Some stuff I can try to share or make presentations on:
 - SSL Labs (Qualys) 
 - virtual hosting (the wikipedia link) 
 - field botany and california native plants. 50 taxa.
-- email deliverability (what system administrators need to do to get mail to work on today's fun internet)
+- email deliverability (what system administrators need to do to get mail to work on today's fun internet)\
+- SSH Keys!!!! why they're great and why they're confusing to people, especially those who exist predominantly in the Microsoft space. 
 
 
 ## Existing braindumps (that I can marpify):
