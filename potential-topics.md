@@ -20,6 +20,7 @@ Some stuff I can try to share:
 - configuration management. 
 - terraform
 - ansible
+- the open source community (or "Free Software" depending on how stallman you are).
 
 
 ## Existing braindumps (that I can marpify):
