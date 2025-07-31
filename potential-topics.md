@@ -21,6 +21,11 @@ Some stuff I can try to share:
 - terraform
 - ansible
 - the open source community (or "Free Software" depending on how stallman you are).
+- "Do nothing scripting"
+- "cloud centers of excellence"
+- Host Headers (MDN link)
+- SSL Labs (Qualys) 
+- virtual hosting (the wikipedia link) 
 
 
 ## Existing braindumps (that I can marpify):
