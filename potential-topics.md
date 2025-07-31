@@ -26,6 +26,7 @@ Some stuff I can try to share:
 - Host Headers (MDN link)
 - SSL Labs (Qualys) 
 - virtual hosting (the wikipedia link) 
+- field botany and california native plants. 50 taxa. 
 
 
 ## Existing braindumps (that I can marpify):
