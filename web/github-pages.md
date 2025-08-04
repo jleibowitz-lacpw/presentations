@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 header: 'GitHub Pages Level Up'
-footer: 'Public Sector DevSecOps'
+footer: 'Office Hours - Jon Leibowitz'
 ---
 
 # Leveling Up with GitHub Pages
@@ -52,10 +52,11 @@ GitHub Pages is a static site hosting service. It takes HTML, CSS, and JavaScrip
 
 # Example `index.md` content:
 
+```
 # Welcome to My GitHub Pages Site!
 
-This is my personal website.
-
+This is *my* personal website.
+```
 ---
 
 # Setting Up Your Personal Site (cont.)
@@ -74,33 +75,25 @@ This is my personal website.
 
 To customize your site's look:
 
-*   Create a folder named `assets/css` in the root of your repository.
-*   Inside `assets/css`, create a new file named `style.scss`.
-*   Add this at the top of `style.scss`:
+*   Create a new file named `style.css`.
+*   Add this at the top of `style.css`:
 
 ---
----
-@import "{{ site.theme }}";
-
-*   This imports the default Jekyll theme's styles.
-
+```
+body {
+  background-color: #f4f4ff;
+}
+```
 ---
 
 # Adding a Custom Stylesheet (cont.)
+*   In your `index.md`, link to the stylesheet by adding this line after the front matter:
 
-*   Add custom CSS or Sass rules below the `@import` line. These rules will override or extend the default styles.
+```
+<link rel="stylesheet" href="style.css">
+```
 
-# Example Custom Styling:
-
-h1 {
-  color: #007bff; /* Public sector blue */
-}
-
-p {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-}
-
+--- 
 *   Commit and push your changes to your repository.
 
 ---
