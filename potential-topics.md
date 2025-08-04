@@ -31,7 +31,7 @@ Some stuff I can try to share or make presentations on:
 - SSH Keys and the SSH protocol!!!! why this is great and where it may be confusing to people, especially those who exist predominantly in the Microsoft space. 
 
 
-## Existing braindumps (that I can marpify):
+## Existing braindumps (that I can [marpify](https://marp.app)):
 
 - [list of braindumps to write](https://gist.github.com/jleibowitz-lacpw/425425d5c87575046954e08c78b98e13)
 - DNS / domains
