@@ -10,7 +10,7 @@ footer: 'Office Hours - Jon Leibowitz'
 
 ## Your Personal Website on GitHub
 
-This deck guides you through using GitHub Pages to host a personal website. The focus is on public sector best practices for open-source and libre licensing.
+This deck guides you through using GitHub Pages to host a personal website.
 
 ---
 
@@ -20,15 +20,14 @@ GitHub Pages is a static site hosting service. It takes HTML, CSS, and JavaScrip
 
 *   **Static Sites:** Suitable for personal portfolios, documentation, or basic project websites.
 *   **Hosted on GitHub:** Uses existing GitHub infrastructure.
-*   **Supports Jekyll:** Can transform Markdown into styled HTML, {Link: according to GitHub Pages https://pages.github.com/}.
+*   **Supports Jekyll:** Can transform Markdown into styled HTML.
 
 ---
 
 # What is GitHub Pages? (cont.)
 
 *   **User/Organization Pages:** Host a site at `<username>.github.io` or `<organization>.github.io`.
-*   **Project Pages:** Host a site for a specific project at `<username>.github.io/<repository>`.
-*   **Version Control Friendly:** Uses a Markdown-based approach for easy versioning and collaboration.
+*   **Version Control Friendly:** Easy versioning and collaboration.
 
 ---
 
@@ -114,9 +113,9 @@ body {
     Create a `style.scss` file and add some basic styling.
     *   Examples: change fonts, colors, or add a header background.
 
-4.  **Embrace Copyleft (Non-negotiable!):**
+4.  **Embrace Copyleft (required for this assignment!):**
     *   Make all your code and content free and open source.
-    *   Choose a {Link: copyleft license https://pitt.libguides.com/openlicensing/opensoftware}, such as the GNU General Public License (GPL).
+    *   Choose a [copyleft license](https://en.wikipedia.org/wiki/Copyleft), such as the GNU General Public License (GPL).
     *   Add a `LICENSE` file to your repository with the text of your chosen license.
 
 ---
