@@ -123,11 +123,9 @@ body {
 
 # Importance of Open Source
 
-As a public sector entity, making your work open and libre with a copyleft license is a core requirement and a good practice. It promotes:
+Making your work open and libre with a copyleft license is a core requirement for this homework assignment and it's good practice. It promotes:
 
 *   **Transparency**
 *   **Collaboration**
 *   **Accessibility**
 *   **Innovation**
-
----
