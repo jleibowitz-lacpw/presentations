@@ -35,9 +35,9 @@ GitHub Pages is a static site hosting service. It takes HTML, CSS, and JavaScrip
 
 ## 1. Create a Repository
 
-*   Log in to your GitHub Enterprise account (public cloud).
+*   Log in to your GitHub account.
 *   Create a **new public repository** named `<username>.github.io`. Replace `<username>` with your GitHub username.
-*   **Important:** Public visibility is usually required for personal sites, unless using GitHub Enterprise Cloud for a private project site.
+*   **Important:** Public visibility is usually required for personal sites.
 *   Initialize the repository with a `README.md` file.
 
 ---
