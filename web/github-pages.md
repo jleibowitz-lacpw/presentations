@@ -115,7 +115,7 @@ body {
 
 4.  **Embrace Copyleft (required for this assignment!):**
     *   Make all your code and content free and open source.
-    *   Choose a [copyleft license](https://en.wikipedia.org/wiki/Copyleft), such as MIT or GNU General Public License (GPL).
+    *   Choose a [copyleft license](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses), such as Creative Commons share-alike or GNU General Public License (GPL).
     *   Add a `LICENSE` file to your repository with the text of your chosen license.
 
 ---
