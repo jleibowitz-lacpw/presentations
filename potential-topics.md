@@ -36,7 +36,8 @@ Some stuff I can try to share or make presentations on:
 - mindfulness
 - [ThoughtWorks Radar](https://www.thoughtworks.com/en-us/radar)
 - [The pyramid model from five dysfunctions of a team.](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
-- web application and web service troubleshooting practices. moving pieces, modularity, causality. 
+- web application and web service troubleshooting practices. moving pieces, modularity, causality.
+- Firewalls 
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
