@@ -17,8 +17,8 @@ Some stuff I can try to share or make presentations on:
 - configuration management. 
 - terraform
 - ansible
-- ITIL
-- The Ops Report Card / Limoncelli's books
+- [ITIL](https://en.wikipedia.org/wiki/ITIL)
+- [The Ops Report Card](https://www.stitchflow.com/tools/opsreportcard) / [Tom Limoncelli's books](https://everythingsysadmin.com/books.html)
 - CI/CD
 - GitHub
 - [permacomputing](https://permacomputing.net)
