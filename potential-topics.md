@@ -35,7 +35,7 @@ Some stuff I can try to share or make presentations on:
 - top down vs bottom up
 - mindfulness
 - [ThoughtWorks Radar](https://www.thoughtworks.com/en-us/radar)
-- The pyramid model from 5 dysfunctions of a team.
+- [The pyramid model from five dysfunctions of a team.](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
 - web application and web service troubleshooting practices. moving pieces, modularity, causality. 
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
