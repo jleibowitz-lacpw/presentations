@@ -32,7 +32,7 @@ Some stuff I can try to share or make presentations on:
 - field botany and california native plants. 50 taxa.
 - [incident response](https://response.pagerduty.com/training/courses/incident_response/)
 - [Diátaxis](https://diataxis.fr/)
-- top down vs bottom up
+- [top down vs bottom up](https://en.wikipedia.org/wiki/Bottom-up_and_top-down_design)
 - mindfulness
 - [ThoughtWorks Radar](https://www.thoughtworks.com/en-us/radar)
 - [The pyramid model from five dysfunctions of a team.](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
