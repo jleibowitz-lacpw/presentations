@@ -2,7 +2,7 @@ Some stuff I can try to share or make presentations on:
 
 - Linux (just the basics like wtf is even a distribution or stuff like that).
 - [Nginx](https://nginx.org/en/docs/) and [Apache](https://httpd.apache.org/docs/) (hot take - knowing how other popular web services work will help you be better at working with IIS or Azure web services)
-- SSL Labs (Qualys)
+- Qualys [SSL Labs](https://www.ssllabs.com/ssltest/)
 - [Host Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Host)
 - Server Name Indication (SNI - [cloudflare learning](https://www.cloudflare.com/learning/ssl/what-is-sni/), [wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication))
 - Name-based [Virtual hosting](https://en.wikipedia.org/wiki/Virtual_hosting) (HTTP/1.1; [RFC 9112](https://www.rfc-editor.org/rfc/rfc9112.html))
