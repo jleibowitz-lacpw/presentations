@@ -24,7 +24,7 @@ Some stuff I can try to share or make presentations on:
 - [permacomputing](https://permacomputing.net)
 - antifragility
 - [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
-- 'antipatterns'
+- ['Anti-Patterns'](https://en.wikipedia.org/wiki/Anti-pattern)
 - neurodivergence
 - pervasive demand avoidance
 - fractals
