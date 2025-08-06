@@ -13,7 +13,7 @@ Some stuff I can try to share or make presentations on:
 - Markdown or obsidian
 - "Do nothing scripting"
 - "cloud centers of excellence"
-- phoenix server pattern / immutable infrastructure
+- phoenix server pattern ([Martin Fowler](https://martinfowler.com/bliki/PhoenixServer.html), [Thoughtworks](https://www.thoughtworks.com/en-us/insights/blog/moving-to-phoenix-server-pattern-introduction)) / immutable infrastructure ([CNCF](https://glossary.cncf.io/immutable-infrastructure/), [HashiCorp](https://www.hashicorp.com/en/resources/what-is-mutable-vs-immutable-infrastructure))
 - configuration management. 
 - terraform
 - ansible
