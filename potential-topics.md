@@ -22,7 +22,7 @@ Some stuff I can try to share or make presentations on:
 - CI/CD
 - GitHub beyond repos
 - [permacomputing](https://permacomputing.net)
-- antifragility
+- [Antifragility](https://en.wikipedia.org/wiki/Antifragility)
 - [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
 - ['Anti-Patterns'](https://en.wikipedia.org/wiki/Anti-pattern)
 - neurodivergence
