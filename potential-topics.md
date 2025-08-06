@@ -5,7 +5,7 @@ Some stuff I can try to share or make presentations on:
 - SSL Labs (Qualys)
 - [Host Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Host)
 - Server Name Indication (SNI - [cloudflare learning](https://www.cloudflare.com/learning/ssl/what-is-sni/), [wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication))
-- [Virtual hosting](https://en.wikipedia.org/wiki/Virtual_hosting) 
+- Name-based [Virtual hosting](https://en.wikipedia.org/wiki/Virtual_hosting) (HTTP/1.1; [RFC 9112](https://www.rfc-editor.org/rfc/rfc9112.html))
 - email deliverability (what system administrators need to do to get mail to work on today's fun internet)\
 - SSH Keys and the SSH protocol!!!! why this is great and where it may be confusing to people, especially those who exist predominantly in the Microsoft space.
 - Cybersecurity. hacker culture.
