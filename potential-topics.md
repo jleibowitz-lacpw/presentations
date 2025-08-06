@@ -30,6 +30,9 @@ Some stuff I can try to share or make presentations on:
 - the open source community (or "Free Software" depending on how stallman you are).
 - field botany and california native plants. 50 taxa.
 - [incident response](https://response.pagerduty.com/training/courses/incident_response/)
+- [Diátaxis](https://diataxis.fr/)
+- top down vs bottom up
+- mindfulness
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
