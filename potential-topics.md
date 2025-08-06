@@ -23,7 +23,7 @@ Some stuff I can try to share or make presentations on:
 - GitHub
 - [permacomputing](https://permacomputing.net)
 - antifragility
-- a pattern language
+- [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
 - 'antipatterns'
 - neurodivergence
 - pervasive demand avoidance
