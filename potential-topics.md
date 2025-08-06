@@ -20,7 +20,7 @@ Some stuff I can try to share or make presentations on:
 - The Ops Report Card / Limoncelli's books
 - CI/CD
 - GitHub
-- permacomputing
+- [permacomputing](https://permacomputing.net)
 - antifragility
 - a pattern language
 - 'antipatterns'
