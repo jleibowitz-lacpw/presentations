@@ -4,6 +4,7 @@ Some stuff I can try to share or make presentations on:
 - Nginx and Apache
 - SSL Labs (Qualys)
 - [Host Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Host)
+- Server Name Indication (SNI - [cloudflare learning](https://www.cloudflare.com/learning/ssl/what-is-sni/), [wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication))
 - virtual hosting (the wikipedia link) 
 - email deliverability (what system administrators need to do to get mail to work on today's fun internet)\
 - SSH Keys and the SSH protocol!!!! why this is great and where it may be confusing to people, especially those who exist predominantly in the Microsoft space.
