@@ -20,7 +20,7 @@ Some stuff I can try to share or make presentations on:
 - [ITIL](https://en.wikipedia.org/wiki/ITIL)
 - [The Ops Report Card](https://www.stitchflow.com/tools/opsreportcard) / [Tom Limoncelli's books](https://everythingsysadmin.com/books.html)
 - CI/CD
-- GitHub
+- GitHub beyond repos
 - [permacomputing](https://permacomputing.net)
 - antifragility
 - [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
