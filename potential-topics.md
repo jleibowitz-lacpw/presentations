@@ -34,6 +34,7 @@ Some stuff I can try to share or make presentations on:
 - [Diátaxis](https://diataxis.fr/)
 - top down vs bottom up
 - mindfulness
+- ThoughtWorks Radar
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
