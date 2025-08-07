@@ -23,7 +23,7 @@ Some stuff I can try to share or make presentations on:
 - GitHub beyond repos
 - [permacomputing](https://permacomputing.net)
 - [Antifragility](https://en.wikipedia.org/wiki/Antifragility)
-- [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language)
+- [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language) or maybe more [Christopher Alexander stuff like the Beautiful Software thing](https://www.buildingbeauty.org/beautiful-software)
 - ['Anti-Patterns'](https://en.wikipedia.org/wiki/Anti-pattern)
 - neurodivergence
 - pervasive demand avoidance
