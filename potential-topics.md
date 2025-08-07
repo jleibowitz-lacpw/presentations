@@ -42,8 +42,8 @@ Some stuff I can try to share or make presentations on:
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
-- [list of braindumps to write](https://gist.github.com/jleibowitz-lacpw/425425d5c87575046954e08c78b98e13)
-- DNS / domains
-- TLS (certificates are fun!)
-- AWS
-- curl
+- [DNS / domains](https://gist.github.com/jleibowitz-lacpw/9d938d55d7a95437cf572ede2c1a2325) (but it should be clear that these are related, but not really the same thing.)
+- [TLS](https://gist.github.com/jleibowitz-lacpw/089f3b2b8c66f95411061a03a97465a7) (certificates are fun!)
+- [AWS](https://gist.github.com/jleibowitz-lacpw/0fd67d707db9ea21a226973f11547f78)
+- [curl](https://gist.github.com/jleibowitz-lacpw/547896cd075e2e4e1dd36c0f4d170474)
+- [more braindumps to write](https://gist.github.com/jleibowitz-lacpw/425425d5c87575046954e08c78b98e13), a list for the future. shifting to marp decks. 
