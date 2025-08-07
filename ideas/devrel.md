@@ -3,7 +3,6 @@ marp: true
 theme: default
 paginate: true
 header: "DIY DevRel: Permissionless Power"
-footer: "@YourHandle | YourCompany/Project"
 ---
 
 # DIY DevRel: Permissionless Power
@@ -45,7 +44,7 @@ Developer Relations (DevRel) builds bridges between tech companies/products and 
 
 # Making it Happen (Permissionless!)
 
-*   **Choose a Platform:**  Google Meet, Slack Huddle, Discord voice, Zoom (check company policy).
+*   **Choose a Platform:**  Google Meet, Slack Huddle, Discord voice, Zoom.
 *   **Announce & Invite:**  Share the schedule on internal channels, team meetings.
 *   **Define Scope (or Lack Thereof):**  "Ask me anything" or focused topics.
 *   **Listen & Engage:**  Address questions, provide resources, connect people.
