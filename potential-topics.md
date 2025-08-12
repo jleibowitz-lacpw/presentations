@@ -1,5 +1,6 @@
 Some stuff I can try to share or make presentations on:
 
+- How to use /etc/hosts (or the windows equivalent) for hostname testing that bypasses DNS.
 - Linux (just the basics like wtf is even a distribution or stuff like that).
 - [Nginx](https://nginx.org/en/docs/) and [Apache](https://httpd.apache.org/docs/) (hot take - knowing how other popular web services work will help you be better at working with IIS or Azure web services)
 - Qualys [SSL Labs](https://www.ssllabs.com/ssltest/)
