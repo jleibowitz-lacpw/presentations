@@ -40,6 +40,7 @@ Some stuff I can try to share or make presentations on:
 - web application and web service troubleshooting practices. moving pieces, modularity, causality.
 - Firewalls
 - Jekyll / Static Site Generators
+- Sentry
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
