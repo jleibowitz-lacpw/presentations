@@ -1,4 +1,4 @@
-# for further research:
+# for further research
 
 - The Fifth Discipline, Senge
 - Metaphors we live by, Lakoff
