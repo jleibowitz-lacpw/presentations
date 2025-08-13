@@ -1,8 +1,25 @@
 # marp-presentations
-mostly machine generated idea explorations, going into DevOps, SRE, cybersecurity, or more esoteric concepts
 
-Ultimately these can be discussed in upcoming "Office Hours" sessions designed to bring ideas to the table. 
+Technical deep-dives and concept explorations covering DevOps, SRE, cybersecurity, and modern infrastructure practices.
 
-files are designed to be rendered with [Marp](https://marp.app/), a Markdown presentation tool.
+## What's This?
+Presentation materials designed for "Office Hours" discussions—structured, shareable formats that make complex topics accessible. Built with [Marp](https://marp.app/) because Markdown beats PowerPoint every time.
 
-[Potential topics](./potential-topics)
+## Why This Matters
+- **Bridge the gap** between traditional IT and modern practices
+- **Start conversations** about automation, security, and efficiency
+- **Document ideas** in a format that's version-controlled and collaborative
+- **Make technical concepts** digestible for mixed audiences
+
+## Structure
+- **[Potential Topics](./potential-topics)** - Pipeline of exploration areas
+- Individual presentations focus on one concept, keep it practical
+- Emphasis on real-world application over academic theory
+
+## Topics Cover
+- Infrastructure as Code and automation workflows
+- Security practices that actually work in bureaucratic environments
+- Modern collaboration tools and documentation strategies
+- Bridging Windows-first orgs with Linux/open-source best practices
+
+Built for fast iteration, easy sharing, and gradual culture change—because good ideas need the right packaging.
