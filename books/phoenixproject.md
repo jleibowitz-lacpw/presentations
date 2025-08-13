@@ -4,7 +4,7 @@ marp: true
 
 # The Phoenix Project
 
-### A Novel About IT, DevOps, and Helping Your Business Win
+## A Novel About IT, DevOps, and Helping Your Business Win
 
 Gene Kim, Kevin Behr, George Spafford
 
@@ -12,11 +12,12 @@ Gene Kim, Kevin Behr, George Spafford
 
 ## The Three Ways of DevOps
 
-The book introduces the "Three Ways" as the foundational principles for improving IT operations:
+The book introduces the "Three Ways" as the foundational principles 
+for improving IT operations:
 
-1.  **Flow (Systems Thinking):** Optimize the flow of work from development to operations.
-2.  **Feedback Loops:** Amplify feedback to identify and resolve issues quickly.
-3.  **Continuous Learning & Experimentation:** Foster a culture of continuous improvement through experimentation and learning from failures.
+1. **Flow (Systems Thinking):** Optimize the flow of work from development to operations.
+2. **Feedback Loops:** Amplify feedback to identify and resolve issues quickly.
+3. **Continuous Learning & Experimentation:** Foster a culture of continuous improvement through experimentation and learning from failures.
 
 ---
 
