@@ -12,7 +12,7 @@ Gene Kim, Kevin Behr, George Spafford
 
 ## The Three Ways of DevOps
 
-The book introduces the "Three Ways" as the foundational principles 
+The book introduces the "Three Ways" as the foundational principles
 for improving IT operations:
 
 1. **Flow (Systems Thinking):** Optimize the flow of work from development to operations.
