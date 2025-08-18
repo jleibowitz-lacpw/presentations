@@ -23,3 +23,11 @@ Presentation materials designed for "Office Hours" discussions—structured, sha
 - Bridging Windows-first orgs with Linux/open-source best practices
 
 Built for fast iteration, easy sharing, and gradual culture change—because good ideas need the right packaging.
+
+## Navigation
+
+- [books](./books)
+- [Concepts being tested](./concepts-being-tested)
+- [ideas](./ideas)
+- [security](./security)
+- [web](./web)
