@@ -110,7 +110,7 @@ body {
 # Homework Assignment: Build Your Site! (cont.)
 
 3.  **Apply a custom stylesheet:**
-    Create a `style.scss` file and add some basic styling.
+    Create a `style.css` file and add some basic styling.
     *   Examples: change fonts, colors, or add a header background.
 
 4.  **Embrace Copyleft (required for this assignment!):**
