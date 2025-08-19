@@ -1,7 +1,7 @@
-Technical deep-dives and concept explorations covering DevOps, SRE, cybersecurity, and modern infrastructure practices. Generally meant to be rendered with a markdown presentation tool like Marp or Slidev. I'll note one versus the other or even expore the text presentation ecosystem.
+Technical deep-dives and concept explorations covering DevOps, SRE, cybersecurity, and modern infrastructure practices. Generally meant to be rendered with a markdown presentation tool like [Marp](https://marp.app) or [Slidev](https://sli.dev). I'll note one versus the other or even expore the text presentation ecosystem.
 
 ## What's This?
-Presentation materials designed for "Office Hours" discussions—structured, shareable formats that make complex topics accessible. Built with [Marp](https://marp.app/) because Markdown beats PowerPoint every time.
+Presentation materials designed for "Office Hours" discussions—structured, shareable formats that make complex topics accessible. Built with plaintext because Markdown beats PowerPoint every time.
 
 ## Why This Matters
 - **Bridge the gap** between traditional IT and modern practices
