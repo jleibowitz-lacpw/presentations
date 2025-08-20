@@ -41,6 +41,7 @@ Some stuff I can try to share or make presentations on:
 - Firewalls
 - Jekyll / Static Site Generators
 - Sentry
+- AGENTS.md
 
 ## Existing braindumps (that I can [marpify](https://marp.app)):
 
