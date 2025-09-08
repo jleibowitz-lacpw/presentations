@@ -96,10 +96,11 @@ TXT   → SPF, DKIM, verification records
 ---
 
 ## Tools: 
-**reqbin.com** - HTTP request testing
-**httpstatus.io** - HTTP status code checker
-**whatsmydns.net/redirect-checker** - Redirect chain analysis
+- **reqbin.com** - HTTP request testing
+- **httpstatus.io** - HTTP status code checker
+- **whatsmydns.net/redirect-checker** - Redirect chain analysis
 
+### What You Can Do:
 - Performs HTTP requests (works like Curl or Postman)
 - Response codes and headers
 - Redirect chains
@@ -185,6 +186,8 @@ TXT   → SPF, DKIM, verification records
 ---
 
 # Bonus: Automating External Checks
+
+examples:
 
 ```bash
 # Quick domain intel one-liner
