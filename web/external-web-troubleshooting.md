@@ -226,7 +226,6 @@ curl -s "https://www.whatsmydns.net/api/check?server=all&type=A&query=example.co
 # Backup Arsenal & Deep Dives
 
 ## Backup Tools:
-- **mxtoolbox.com** - DNS + email delivery + blacklists
 - **Google Admin Toolbox** - Verify DNS issues
 - **mxtoolbox.com** - DNS + email delivery + blacklists
 - **downforeveryoneorjustme.com** - Is it just me?
