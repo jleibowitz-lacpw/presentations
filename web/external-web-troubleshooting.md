@@ -226,7 +226,6 @@ curl -s "https://www.whatsmydns.net/api/check?server=all&type=A&query=example.co
 # Backup Arsenal & Deep Dives
 
 ## Backup Tools:
-- **mxtoolbox.com** - DNS + email delivery + blacklists
 - **Google Admin Toolbox** - Verify DNS issues
 - **mxtoolbox.com** - DNS + email delivery + blacklists
 - **downforeveryoneorjustme.com** - Is it just me?
@@ -236,6 +235,7 @@ curl -s "https://www.whatsmydns.net/api/check?server=all&type=A&query=example.co
 ---
 
 ## Learning Resources:
-- **MDN Web Docs** - HTTP/networking fundamentals
-- **Cloudflare Learning Center** - DNS, CDN, security concepts
-- **SSL Labs Research Wiki** - TLS/encryption deep dives
+- **MDN Web Docs** - [HTTP/networking fundamentals](https://developer.mozilla.org/en-US/docs/Web)
+- **HTTP Working Group Specs** - [Authoritative HTTP standards](https://httpwg.org/specs/)
+- **Cloudflare Learning Center** - [DNS, CDN, security concepts](https://www.cloudflare.com/learning/)
+- **SSL Labs Research Wiki** - [TLS/encryption deep dives](https://github.com/ssllabs/research/wiki)
