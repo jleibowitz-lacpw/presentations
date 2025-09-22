@@ -1,52 +1,77 @@
-Some stuff I can try to share or make presentations on:
+## Potential presentation topics
 
-- How to use /etc/hosts (or the windows equivalent) for hostname testing that bypasses DNS.
-- Linux (just the basics like wtf is even a distribution or stuff like that).
-- [Nginx](https://nginx.org/en/docs/) and [Apache](https://httpd.apache.org/docs/) (hot take - knowing how other popular web services work will help you be better at working with IIS or Azure web services)
-- Qualys [SSL Labs](https://www.ssllabs.com/ssltest/)
-- [Host Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Host)
-- Server Name Indication (SNI - [cloudflare learning](https://www.cloudflare.com/learning/ssl/what-is-sni/), [wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication))
-- Name-based [Virtual hosting](https://en.wikipedia.org/wiki/Virtual_hosting) (HTTP/1.1; [RFC 9112](https://www.rfc-editor.org/rfc/rfc9112.html))
-- email deliverability (what system administrators need to do to get mail to work on today's fun internet)\
-- SSH Keys and the SSH protocol!!!! why this is great and where it may be confusing to people, especially those who exist predominantly in the Microsoft space.
-- Cybersecurity. hacker culture.
-- [Security theater](https://en.wikipedia.org/wiki/Security_theater)
-- Markdown or obsidian
-- "Do nothing scripting"
-- "cloud centers of excellence"
-- phoenix server pattern ([Martin Fowler](https://martinfowler.com/bliki/PhoenixServer.html), [Thoughtworks](https://www.thoughtworks.com/en-us/insights/blog/moving-to-phoenix-server-pattern-introduction)) / immutable infrastructure ([CNCF](https://glossary.cncf.io/immutable-infrastructure/), [HashiCorp](https://www.hashicorp.com/en/resources/what-is-mutable-vs-immutable-infrastructure))
-- configuration management. 
-- terraform
-- ansible
-- [ITIL](https://en.wikipedia.org/wiki/ITIL)
-- [The Ops Report Card](https://www.stitchflow.com/tools/opsreportcard) / [Tom Limoncelli's books](https://everythingsysadmin.com/books.html)
-- CI/CD
-- GitHub beyond repos
-- [permacomputing](https://permacomputing.net)
-- [Antifragility](https://en.wikipedia.org/wiki/Antifragility)
-- [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language) or maybe more [Christopher Alexander stuff like the Beautiful Software thing](https://www.buildingbeauty.org/beautiful-software)
-- ['Anti-Patterns'](https://en.wikipedia.org/wiki/Anti-pattern)
-- neurodivergence
-- pervasive demand avoidance
-- fractals
-- the open source community (or "Free Software" depending on how stallman you are).
-- field botany and california native plants. 50 taxa.
-- [incident response](https://response.pagerduty.com/training/courses/incident_response/)
-- [Diátaxis](https://diataxis.fr/)
-- [top down vs bottom up](https://en.wikipedia.org/wiki/Bottom-up_and_top-down_design)
-- mindfulness
-- [ThoughtWorks Radar](https://www.thoughtworks.com/en-us/radar)
-- [The pyramid model from five dysfunctions of a team.](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
-- web application and web service troubleshooting practices. moving pieces, modularity, causality.
+### Core Networking & Web
+- /etc/hosts Usage
+- Name-Based Virtual Hosting – [Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting), [RFC 9112](https://www.rfc-editor.org/rfc/rfc9112.html)
+- Host Header – [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Host)
+- Server Name Indication (SNI) – [Cloudflare Learning](https://www.cloudflare.com/learning/ssl/what-is-sni/), [Wikipedia](https://en.wikipedia.org/wiki/Server_Name_Indication)
+- Web Application and Web Service Troubleshooting
 - Firewalls
+- Email Deliverability
+
+### Web Servers & Delivery
+- Nginx – [Docs](https://nginx.org/en/docs/)
+- Apache – [Docs](https://httpd.apache.org/docs/)
 - Jekyll / Static Site Generators
-- Sentry
+- Phoenix Server Pattern – [Martin Fowler](https://martinfowler.com/bliki/PhoenixServer.html), [Thoughtworks](https://www.thoughtworks.com/en-us/insights/blog/moving-to-phoenix-server-pattern-introduction)
+- Immutable Infrastructure – [CNCF](https://glossary.cncf.io/immutable-infrastructure/), [HashiCorp](https://www.hashicorp.com/en/resources/what-is-mutable-vs-immutable-infrastructure)
+
+### Security & Trust
+- TLS (see braindump below)
+- SSH Keys and the SSH Protocol
+- Incident Response – [PagerDuty Training](https://response.pagerduty.com/training/courses/incident_response/)
+- Security Theater – [Wikipedia](https://en.wikipedia.org/wiki/Security_theater)
+- Qualys SSL Labs – [SSL Test](https://www.ssllabs.com/ssltest/)
+- Cybersecurity
+- Hacker Culture
+
+### Infrastructure / Automation / Platform
+- Configuration Management
+- Terraform
+- Ansible
+- CI/CD
+- GitHub Beyond Repos
+- Do Nothing Scripting
 - AGENTS.md
+- Sentry
 
-## Existing braindumps (that I can [marpify](https://marp.app)):
+### Ops, Process & Frameworks
+- Cloud Centers of Excellence
+- ITIL – [Wikipedia](https://en.wikipedia.org/wiki/ITIL)
+- The Ops Report Card – [Tool](https://www.stitchflow.com/tools/opsreportcard)
+- Tom Limoncelli’s Books – [EverythingSysadmin](https://everythingsysadmin.com/books.html)
+- Diátaxis – [diataxis.fr](https://diataxis.fr/)
+- Top Down vs Bottom Up – [Wikipedia](https://en.wikipedia.org/wiki/Bottom-up_and_top-down_design)
+- ThoughtWorks Radar – [Radar](https://www.thoughtworks.com/en-us/radar)
+- Five Dysfunctions of a Team Pyramid – [PDF](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
 
-- [DNS / domains](https://gist.github.com/jleibowitz-lacpw/9d938d55d7a95437cf572ede2c1a2325) (but it should be clear that these are related, but not really the same thing.)
-- [TLS](https://gist.github.com/jleibowitz-lacpw/089f3b2b8c66f95411061a03a97465a7) (certificates are fun!)
-- [AWS](https://gist.github.com/jleibowitz-lacpw/0fd67d707db9ea21a226973f11547f78)
-- [curl](https://gist.github.com/jleibowitz-lacpw/547896cd075e2e4e1dd36c0f4d170474)
-- [more braindumps to write](https://gist.github.com/jleibowitz-lacpw/425425d5c87575046954e08c78b98e13), a list for the future. shifting to marp decks. 
+### Architecture, Patterns & Systems Thinking
+- A Pattern Language – [Wikipedia](https://en.wikipedia.org/wiki/A_Pattern_Language)
+- Christopher Alexander (Beautiful Software) – [Building Beauty](https://www.buildingbeauty.org/beautiful-software)
+- Anti-Patterns – [Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+- Antifragility – [Wikipedia](https://en.wikipedia.org/wiki/Antifragility)
+- Fractals
+
+### Documentation, Knowledge & Tooling
+- Markdown
+- Obsidian
+- curl (see braindump)
+- DNS / Domains (see braindump)
+
+### Culture, People, Practice
+- Open Source / Free Software
+- Open Source Community
+- Mindfulness
+
+### Sustainability / Interdisciplinary
+- Permacomputing – [permacomputing.net](https://permacomputing.net)
+- Field Botany and California Native Plants
+
+---
+
+## Existing Braindumps (to Marpify)
+- DNS / Domains – [Gist](https://gist.github.com/jleibowitz-lacpw/9d938d55d7a95437cf572ede2c1a2325)
+- TLS – [Gist](https://gist.github.com/jleibowitz-lacpw/089f3b2b8c66f95411061a03a97465a7)
+- AWS – [Gist](https://gist.github.com/jleibowitz-lacpw/0fd67d707db9ea21a226973f11547f78)
+- curl – [Gist](https://gist.github.com/jleibowitz-lacpw/547896cd075e2e4e1dd36c0f4d170474)
+- More Braindumps To Write – [Gist](https://gist.github.com/jleibowitz-lacpw/425425d5c87575046954e08c78b98e13)
