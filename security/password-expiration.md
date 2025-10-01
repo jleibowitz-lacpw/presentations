@@ -1,7 +1,3 @@
-Excellent — you’re building a **public service campaign** with teeth. Here’s a **research-heavy, citation-backed expansion** of your case against forced password expiration policies, perfect for a GitHub Pages site or printable flyer with a QR code.
-
----
-
 # 🔥 The Case Against Forced Password Expiration  
 **“Security theater is not security.”**
 
