@@ -6,37 +6,48 @@ paginate: true
 
 # CLI Troubleshooting: A Mindful Approach
 
-Avoid assumptions. Ask the right questions. Use the right tools.
+The right tools to collect the right information
 
 ---
 
 ## Why This Matters
 
-- Jumping to conclusions wastes time
-- External tools only show part of the picture
-- CLI tools help us collect real data
-- Troubleshooting is a process, not a guess
+- External tools show an external point of view
+- The command line is easy. Commands are repeatable
 
 ---
 
 ## External Tools Recap
 
-- whatsmydns.net
-- SSL Labs
-- reqbin.com / httpstatus.io
+- WHOIS / Registration Data Access Protocol
 - digwebinterface.com
+- whatsmydns.net
+- Qualys SSL Labs
+- reqbin.com / httpstatus.io
 
-> Great for quick checks—but limited visibility
+> Quick external checks
 
 ---
 
 ## The Layered Approach
 
-1. Is the host reachable?
-2. Is DNS resolving?
-3. Is the port open?
+1. Is the host reachable (Network)?
+2. Does a hostname resolve (DNS)?
+3. Is the port open (Firewall)?
 4. Is the service responding?
-5. What’s the context?
+5. What else is happening (Context)?
+
+---
+## Your Terminal Environment (on Windows)
+
+| Environment | Pros | Cons |
+|-------------|------|------|
+| Console Host | Simple | Old school |
+| PowerShell | Powerful scripting | Complex syntax |
+| Windows Terminal | Modern UI | Learning curve |
+| Git Bash | Bash shell on Windows OS, installed with Git for Windows | Very simple environment |
+| WSL | Full Linux | Setup required, Linux familiarity suggested |
+| Cygwin | A Unix-like environment | Complexity, mostly supplanted by WSL |
 
 ---
 
@@ -83,19 +94,6 @@ Avoid assumptions. Ask the right questions. Use the right tools.
 
 - What else is happening on the system?
 - Are there local firewall rules or conflicts?
-
----
-
-## Terminal Environments on Windows
-
-| Environment | Pros | Cons |
-|-------------|------|------|
-| Console Host | Always available | Limited features |
-| PowerShell | Powerful scripting | Verbose syntax |
-| Windows Terminal | Modern UI | Just a frontend |
-| Git Bash | Unix tools | Missing some tools |
-| WSL | Full Linux | Setup required |
-| Cygwin | Unix tools w/o WSL | Compatibility quirks |
 
 ---
 
