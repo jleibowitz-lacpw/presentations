@@ -25,7 +25,7 @@ The right tools to collect the right information
 - Qualys SSL Labs
 - reqbin.com / httpstatus.io
 
-> Quick external checks
+> Quick external checks from the Internet's point of view
 
 ---
 
@@ -42,8 +42,9 @@ The right tools to collect the right information
 
 | Terminal or Shell | Pros | Cons |
 |-------------|------|------|
-| Console Host | Simple | Old school, uses `cmd.exe` |
+| `conhost.exe` (Console Host) | Simple | Old school, uses `cmd.exe` |
 | Windows Terminal | Modern UI | additional installation |
+| `cmd.exe` (Command Prompt) | Simple, built-in | Limited functionality |
 | PowerShell | Powerful scripting | Complex syntax, more than one "powershell" to be aware of |
 
 ---
@@ -59,6 +60,24 @@ The right tools to collect the right information
 ## Considerations
 
 Know your environment and the PATH. Shells and terminal emulators can behave differently. 
+
+Helpful commands:
+- `which`
+- `pwd`
+- `echo $PATH`
+
+---
+
+How to use `which` to find the location of a command (in this case, `ping`):
+```
+jon@ITD-PW57642:~$ which ping
+/usr/bin/ping
+```
+Print working directory with `pwd`:
+```
+jon@ITD-PW57642:~$ pwd
+/home/jon
+```
 
 ---
 
@@ -218,9 +237,18 @@ Let’s walk through a scenario using these tools.
 
 ## Final Thoughts
 
-- Don’t assume—observe
-- Use tools to ask better questions
-- Build a repeatable process
+- Observations beat assumptions
+- Use the right tool to gather data
+- Build a repeatable troubleshooting process
+
+---
+## Resources
+
+- https://en.wikipedia.org/wiki/Windows_Console
+- https://en.wikipedia.org/wiki/Windows_Terminal
+- https://en.wikipedia.org/wiki/Cmd.exe
+- https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
+- https://en.wikipedia.org/wiki/MTR_(software)
 
 ---
 
