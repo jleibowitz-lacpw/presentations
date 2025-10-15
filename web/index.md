@@ -1,1 +1,2 @@
-[Troubleshooting from an external point of view](./external-web-troubleshooting)
+- [Troubleshooting from an external point of view](./external-web-troubleshooting)
+- [CLI troubleshooting](./cli-troubleshooting)
