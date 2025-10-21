@@ -8,7 +8,7 @@ footer: 'Using the Hosts File'
 
 #  Bypassing DNS for Hostname Testing on Windows
 
-This Marp slide deck provides a high-level overview of using the Hosts file to test website changes on Windows by overriding DNS resolution. This technique helps ensure changes are working correctly before they are made public via DNS updates.
+A high-level overview of using the Hosts file to test website changes on Windows by overriding DNS resolution. This technique helps ensure changes are working correctly before they are made public via DNS updates.
 
 ---
 
@@ -31,7 +31,7 @@ This Marp slide deck provides a high-level overview of using the Hosts file to t
 ##  Hosts File Location
 
 *   On Windows, the Hosts file is located at: `C:\Windows\System32\drivers\etc\hosts`.
-*   It's a system file and you will need Administrator privileges to modify it.
+*   It is a system file and you will need Administrator privileges to modify it.
 
 ---
 
@@ -71,5 +71,3 @@ The Hosts file offers a convenient way to:
 *   Gain local control over hostname-to-IP mappings.
 
 This is a valuable tool for web development and network administration.
-
----
