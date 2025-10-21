@@ -1,2 +1,4 @@
 - [Troubleshooting from an external point of view](./external-web-troubleshooting)
 - [CLI troubleshooting](./cli-troubleshooting)
+- [Hosts file bypasses](./hosts-bypass.md)
+- [Forwarding, redirection and DNS resolution](./redirection)
