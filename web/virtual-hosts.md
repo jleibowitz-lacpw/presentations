@@ -6,25 +6,42 @@ paginate: true
 
 # Nginx Demo on WSL (Ubuntu 24.04)
 
-Loosely adapted from DigitalOcean's tutorial
+Loosely adapted from [a tutorial by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04)
 
 ---
 
-## Step 1: Install Nginx
+## Edit Hosts File (Windows)
 
+Add to C:\Windows\System32\drivers\etc\hosts:
+
+```
+127.0.0.1 ferns.internal  
+127.0.0.1 cactus.internal  
+```
+
+`.internal` is a top-level domain reserved for local use but any names can be used. 
+
+---
+
+## Install Nginx (in WSL)
+
+```
 sudo apt update  
 sudo apt install nginx
+```
 
 ---
 
-## Step 2: Set Up UFW
+## Set Up UFW
 
-sudo ufw allow 'Nginx HTTP'  
+```
+sudo ufw allow "Nginx Full" 
 sudo ufw enable
+```
 
 ---
 
-## Step 3: Test Nginx
+## Test Nginx
 
 Visit in your browser:  
 http://localhost:80  
@@ -33,25 +50,16 @@ You should see the "Welcome to Nginx" page.
 
 ---
 
-## Step 4: Create Web Root Directories
+## Create Web Root Directories
 
+```
 sudo mkdir -p /var/www/ferns/html  
 sudo mkdir -p /var/www/cactus/html
+```
 
 ---
 
-## Step 5: Edit Hosts File (Windows)
-
-Add to C:\Windows\System32\drivers\etc\hosts:
-
-127.0.0.1 ferns.internal  
-127.0.0.1 cactus.internal  
-
-.internal is reserved for local use.
-
----
-
-## Step 6: Set Ownership
+## Set Ownership
 
 ```
 sudo chown -R $USER:$USER /var/www/ferns/html  
@@ -60,32 +68,40 @@ sudo chown -R $USER:$USER /var/www/cactus/html
 
 ---
 
-## Step 7: Add index.html Files
+## Add index.html Files
 
 ```
-echo "<h1>Ferns Site</h1>" > /var/www/ferns/html/index.html  
-echo "<h1>Cactus Site</h1>" > /var/www/cactus/html/index.html
+nano /var/www/ferns/html/index.html  
+nano /var/www/cactus/html/index.html
 ```
 
 ---
 
-## Step 8: Create Server Blocks
+## Create Server Blocks
 
 Create `/etc/nginx/sites-available/ferns`:
 
 ```
-server {  
- listen 80;  
- server_name ferns.internal;  
- root /var/www/ferns/html;  
- index index.html;  
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/ferns/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name ferns.internal;
+        access_log /var/log/nginx/ferns.access.log;
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
 }
 ```
-Repeat for cactus.
+Repeat for `cactus`.
 
 ---
 
-## Step 9: Enable Sites
+## Enable Sites
 
 ```
 sudo ln -s /etc/nginx/sites-available/ferns /etc/nginx/sites-enabled/  
@@ -97,7 +113,7 @@ Then reload Nginx:
 
 ---
 
-## Step 10: Test It
+## Test It
 
 ```
 curl -H "Host: ferns.internal" http://127.0.0.1  
