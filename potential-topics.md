@@ -31,7 +31,7 @@
 - Ansible
 - CI/CD
 - GitHub Beyond Repos
-- Do Nothing Scripting
+- [Do Nothing Scripting](https://github.com/jleibowitz-lacpw/do-nothing-scripts)
 - AGENTS.md
 - Sentry
 - Devcontainers [1](https://github.com/devcontainers), [2](https://containers.dev/), [3](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers), [4](https://learn.microsoft.com/en-us/shows/beginners-series-to-dev-containers/)
