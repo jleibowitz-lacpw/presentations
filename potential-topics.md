@@ -63,6 +63,7 @@
 - Open Source / Free Software
 - Open Source Community
 - Mindfulness
+- open source program offices (OSPO)
 
 ### Sustainability / Interdisciplinary
 - Permacomputing – [permacomputing.net](https://permacomputing.net)
