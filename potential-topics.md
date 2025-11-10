@@ -56,6 +56,7 @@
 ### Documentation, Knowledge & Tooling
 - Markdown
 - Obsidian
+- plain text and avoiding "What You See is All There Is" bias (WYSIATI)
 - curl (see braindump)
 - DNS / Domains (see braindump)
 
