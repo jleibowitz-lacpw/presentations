@@ -1,4 +1,4 @@
-# history of demos or presentations within LACPW
+# history of demos or presentations made to web admin (lac pw)
 
 - External Troubleshooting
 - CLI troubleshooting
