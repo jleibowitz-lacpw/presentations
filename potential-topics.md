@@ -72,7 +72,7 @@
 
 ---
 
-## Existing Braindumps (to Marpify)
+## Existing Braindumps (to convert to slides)
 - DNS / Domains – [Gist](https://gist.github.com/jleibowitz-lacpw/9d938d55d7a95437cf572ede2c1a2325)
 - TLS – [Gist](https://gist.github.com/jleibowitz-lacpw/089f3b2b8c66f95411061a03a97465a7)
 - AWS – [Gist](https://gist.github.com/jleibowitz-lacpw/0fd67d707db9ea21a226973f11547f78)
