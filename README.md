@@ -11,6 +11,7 @@ Presentation materials designed for "Office Hours" discussions—structured, sha
 
 ## Structure
 - **[Potential Topics](./potential-topics)** - Pipeline of exploration areas
+- [Past presentation history](./past)
 - Individual presentations focus on one concept, keep it practical
 - Emphasis on real-world application over academic theory
 
