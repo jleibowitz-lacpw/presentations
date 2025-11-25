@@ -8,5 +8,5 @@
 - curl
 - Gradual Automation
 - Nginx name based virtual hosting ("server blocks")
-- redirection, reverse proxies. in plain language
+- redirection, forwardng, and reverse proxies (describing the differences of these mechanisms in plain language)
 - Devcontainers
