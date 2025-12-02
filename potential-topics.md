@@ -40,11 +40,12 @@
 - Cloud Centers of Excellence
 - ITIL – [Wikipedia](https://en.wikipedia.org/wiki/ITIL)
 - The Ops Report Card – [Tool](https://www.stitchflow.com/tools/opsreportcard)
-- Tom Limoncelli’s Books – [EverythingSysadmin](https://everythingsysadmin.com/books.html)
+- Tom Limoncelli's Books – [EverythingSysadmin](https://everythingsysadmin.com/books.html)
 - Diátaxis – [diataxis.fr](https://diataxis.fr/)
 - Top Down vs Bottom Up – [Wikipedia](https://en.wikipedia.org/wiki/Bottom-up_and_top-down_design)
 - ThoughtWorks Radar – [Radar](https://www.thoughtworks.com/en-us/radar)
 - Five Dysfunctions of a Team Pyramid – [PDF](https://files.tablegroup.com/wp-content/uploads/2020/12/11224029/FiveDysfunctions.pdf)
+- The Four Golden Signals for Monitoring Public-Facing Web Applications – [Google SRE Book](https://sre.google/sre-book/monitoring-distributed-systems/), [PFLB](https://pflb.us/blog/4-golden-signals-sre/)
 
 ### Architecture, Patterns & Systems Thinking
 - A Pattern Language – [Wikipedia](https://en.wikipedia.org/wiki/A_Pattern_Language)
