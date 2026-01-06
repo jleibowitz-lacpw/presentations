@@ -45,6 +45,16 @@ _paginate: false
 
 ---
 
+## Accessing Wiz
+
+**In our setup, we use SSO:**
+
+1. Go to https://myapplications.microsoft.com/
+2. Click the Wiz button
+3. You'll be automatically logged in (if you have an account)
+
+---
+
 ## Getting Started
 
 1. Connect your cloud accounts
